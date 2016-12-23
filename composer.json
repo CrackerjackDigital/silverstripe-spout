@@ -1,5 +1,5 @@
 {
-    "name": "crackerjackdigital/spout",
+    "name": "crackerjackdigital/silverstripe-spout",
     "description": "Get data out of SilverStripe in various ways",
     "type": "silverstripe-module",
     "license": "MIT",
